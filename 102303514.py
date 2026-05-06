@@ -4,7 +4,7 @@ YouTube Mashup Creator
 Downloads videos from YouTube, converts to audio, cuts and merges them.
 
 Usage:
-python 102303943.py "SingerName" 20 25 output.mp3
+python 102303514.py "SingerName" 20 25 output.mp3
 """
 
 import sys
